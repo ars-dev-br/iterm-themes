@@ -12,6 +12,9 @@ Both `kaolin-shiva` and `kaolin-valley-light` were adapted from
 [color palette](https://protesilaos.com/emacs/modus-themes-colors)
 released under the Creative Commons.
 
+`warp-light` was adapted from the Light theme of
+[Warp](https://www.warp.dev/).
+
 ## Screenshots
 
 ### Kaolin Shiva
@@ -25,3 +28,7 @@ released under the Creative Commons.
 ### Modus Operandi
 
 ![](screenshots/modus-operandi.png)
+
+### Warp Light
+
+![](screenshots/warp-light.png)
